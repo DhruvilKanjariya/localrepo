@@ -1,3 +1,16 @@
 p {
     color: red;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+* {
+    margin: 10;
+    padding: 10;
+    margin: 10;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
 }
